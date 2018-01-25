@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/mateuszzylka/learning-git-2.1/issues"
   },
-  "homepage": "https://github.com/mateuszzylka/learning-git-2.1#readme"
+  "homepage": "https://github.com/mateuszzylka/learning-git-2.1#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.23.6",
+    "nu-html-checker": "^0.1.0"
+  }
 }
